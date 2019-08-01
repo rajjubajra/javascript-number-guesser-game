@@ -1,0 +1,1 @@
+body{background-color:#fff;margin:0;padding:0}.container{max-width:300px;margin:0 auto;height:75vh;display:flex;justify-content:center;align-items:center}.container #form{margin:20px 0}input{padding:10px;font-size:1rem;border:1px solid #ccc;color:#777}input#submit,input#restart{cursor:pointer;background:#eee}
